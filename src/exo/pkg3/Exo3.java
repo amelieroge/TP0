@@ -59,6 +59,8 @@ public class Exo3 {
         if ((operateur < 1) || (operateur > 5)){
             System.out.print("ERROR");
         }
+        
+        System.out.println("Merci");
     }
     
 }
